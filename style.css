@@ -1,0 +1,48 @@
+body {
+    text-align:center;}
+
+.abouttime{
+   padding: 20px;
+   font-size: 20px;
+   background: linear-gradient(skyblue,violet);
+    height: 563;
+}
+
+.bio{
+   padding: 20px;
+   font-size: 20px;
+   background: linear-gradient(#f6f702 0%,#f7a902 100%);
+    height: 563;
+}
+
+h1 {
+  text-shadow:2px 2px #F8BBD0;
+  font-size:20px;
+    font-family: 'Lobster', cursive;
+}
+
+h2 {
+    text-shadow:2px 2px #F8BBD0;
+  font-size:20px;
+font-family: 'Lobster', cursive;
+}
+
+
+img{
+    width: 200px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+p{
+    color: purple;
+    font-family: 'PT Sans', sans-serif;
+}
+
